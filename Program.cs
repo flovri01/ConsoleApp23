@@ -10,4 +10,11 @@ namespace ConsoleApp1
             Console.WriteLine("Novo2");
         }
     }
+    class NewClass
+    {
+        static void Metoda()
+        {
+
+        }
+    }
 }
